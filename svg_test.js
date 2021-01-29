@@ -93,7 +93,7 @@ function render() {
     document.getElementById("minor-second-inv").appendChild(makeChart([[4, 5], [1, 3], [3, 1]]));
 
     // Diminished chords
-    document.getElementById("dim-root-inv").appendChild(makeChart([[1, 3], [2, 4], [3, 3]]));
+    document.getElementById("dim-root-inv").appendChild(makeChart([[1, 3], [2, 4], [4, 3]]));
     document.getElementById("dim-first-inv").appendChild(makeChart([[3, 2], [1, 3], [4, 3]]));
     document.getElementById("dim-second-inv").appendChild(makeChart([[4, 5], [1, 2], [3, 1]]));
 
