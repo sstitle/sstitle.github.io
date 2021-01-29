@@ -1,0 +1,27 @@
+.chord-chart {
+    width: 300px;
+    height: 300px;
+    border: none;
+    align-content: center;
+}
+
+.chord-type {
+    font-size: 30px;
+    font-family: "Nimbus Mono L";
+    align-content: center;
+    font-weight: bold;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Nimbus Mono L";
+}
+
+p {
+    text-align:center;
+}
