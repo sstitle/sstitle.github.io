@@ -1,2 +1,3 @@
 # sstitle.github.io
-A simple HTML webpage project that uses JavaScript to render SVG Guitar chord chart diagrams.
+
+Sam Title's personal portfolio and webpage.
